@@ -10,7 +10,9 @@ This project focuses on building an automated system for image processing and ma
 4. Scalable architecture: Design for scalability to handle image processing demands.
 5. Cost-efficient solution: Leverage AWS serverless technologies to minimize operational costs.
 
+## Overview :
 
+![Architecture Overview](https://raw.githubusercontent.com/SanketGade07/AWS-Auto-Image-Resizer/main/image-resizer-overview-architecture.png)
 
 
 
